@@ -1,1 +1,2 @@
-# test-repo is a git command demonstration
+# test-repo
+it is a git command demonstration
